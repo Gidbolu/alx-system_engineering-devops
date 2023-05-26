@@ -1,1 +1,2 @@
-#!/bin/blas-C -m schoolC -m school
+#!/bin/bash
+file -C -m school
