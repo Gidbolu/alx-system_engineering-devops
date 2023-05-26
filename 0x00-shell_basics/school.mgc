@@ -1,2 +1,2 @@
 #!/bin/blash
-file -C school.mgc
+file -m school.mgc School
