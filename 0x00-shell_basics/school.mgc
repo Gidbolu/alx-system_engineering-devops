@@ -1,2 +1,1 @@
-#!/bin/blash
-file -m school.mgc School
+#!/bin/blas-C -m schoolC -m school
