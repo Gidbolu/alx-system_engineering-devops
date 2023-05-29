@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp -type fd -empty -name ".*"
+find -empty | ls -la
